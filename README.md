@@ -1,8 +1,14 @@
 # Super_Store_Analisis
 Análisis de Ventas con Python y Pandas
 
+Análisis de Datos de Ventas de Productos El análisis de datos de ventas es crucial para monitorear el rendimiento y abordar consultas clave del negocio.
+
+En este proyecto, analizarás los datos de ventas de una empresa, destacando las ganancias por producto, las ventas totales y otros factores vitales que impactan los resultados del negocio.
+
 ![Super Store](https://github.com/user-attachments/assets/e7ba8b33-405f-42bb-9e7a-327d81b97a38)
 
+# Skils
+Importación de datos, uso de visualizaciones básicas (gráficos de barras, gráficos circulares) y creación de columnas calculadas.
 
 ## Objetivo: Manipulación y exploración de datos con Pandas.
 
